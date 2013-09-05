@@ -6,5 +6,6 @@ Assembler, Simple Instruction Level Processor Simulator, and Pipeline Simulator.
 
 Assembler assembles Mips code and outputs a file that the simulators can read. 
 
+<code>
 usage: ./a.out <assembly-code-file> <machine-code-file> <br>
-
+</code>
